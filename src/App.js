@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Changed on Feature branch
+         Running on t2.micro
         </p>
         <a
           className="App-link"
